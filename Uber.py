@@ -12,7 +12,7 @@ import numpy as np
 # In[15]:
 
 
-st.title("Uber Pickups in NYC")
+st.title("Dashboard")
 
 
 # In[16]:
